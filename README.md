@@ -107,14 +107,23 @@ All bookings are saved in the backend and stored as <b>booked seats</b>, which a
 
 <ul>
     <li><b>SignUp Page</b></li>
+    <img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/8bc92c73-4a8a-41df-8e87-070737c5f77e" />
+
   <li><b>Login Page Page</b></li>
-    <li><b>Home Page</b></li>
-    <li><b>Bus Search Page</b></li>
+  <img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/5cb437d2-6560-43a3-a531-f35b16f132ce" />
+   <li><b>Bus Search Page</b></li>
+<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/59ae9cf5-0a27-4ef1-810f-6c32c2f1634b" />
+
+   
     <li><b>Seat Selection</b></li>
+    <img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/f2ca6550-bf03-4c4e-a069-64bda5e3e303" />
+
     <li><b>Passenger Form</b></li>
-    <li><b>Payment Page</b></li>
+    <img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/65638b28-6c13-43f6-8ca2-25138be079b0" />
+
     <li><b>PDF Ticket</b></li>
-    <li><b>Booking History</b></li>
+    <img width="1366" height="736" alt="image" src="https://github.com/user-attachments/assets/a820929c-8311-41c2-b56d-517083ead9d2" />
+
 </ul>
 
 <hr>
